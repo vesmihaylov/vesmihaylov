@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vesmihaylov
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python & JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on PHP projects
 - 📫 How to reach me - ping me a private message
