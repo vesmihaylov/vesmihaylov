@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @vesmihaylov
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on PHP projects
-- 📫 How to reach me - ping me a private message
+- 👋 Hello, I’m Veselin.
+- 🌱 I’m currently learning JavaScript & front-end frameworks like Vue and React.
+- 💞️ I’m looking to collaborate on PHP projects.
+- 📫 How to reach me - ping me a private message on <a href="https://www.linkedin.com/in/veselin-mihaylov-89bb87193/">LinkedIn</a>.
